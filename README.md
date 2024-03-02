@@ -2,20 +2,15 @@
 
 ## Full-stack Developer Specializing in Frontend & React.js
 
-I'm a passionate Full-Stack Developer with a focus on Frontend development and React.js. I love coding because it allows me to solve real-world problems creatively and efficiently.
+I'm a passionate Full-Stack Developer with a focus on Frontend development and React.js. I love coding because it allows me to solve real-world problems.
 
 ### 🌱 What I'm currently working on
 
-Currently, I'm working on several projects using React.js, TypeScript, and serverless technologies. I'm always looking to improve my skills and expand my knowledge in web development, especially in areas like cloud services and new frontend technologies.
+Currently, I'm actively looking for a job or freelancing gigs. During my free time, I work on Amapify Chrome Extension or upgrading my coding skills.
 
 ### 🔭 Professional Background
 
 With a professional background in software development, I've contributed to various projects that have allowed me to hone my skills in JavaScript, TypeScript, React.js, and more. I take pride in writing clean, efficient code and in my ability to translate complex requirements into functional, user-friendly applications.
-
-### 📫 How to reach me:
-
-- **GitHub**: [lukashanak](https://github.com/lukashanak)
-- **Personal Website**: [www.lukashanak.com](https://www.lukashanak.com)
 
 ### 💼 Experience Highlights
 
@@ -24,15 +19,14 @@ With a professional background in software development, I've contributed to vari
 
 ### 🛠 Skills & Technologies
 
-- **Languages & Frameworks**: JavaScript, TypeScript, React.js, FastAPI, Python
+- **Languages & Frameworks**: TypeScript, React.js, FastAPI, Python, MaterialUI
 - **Tools & Platforms**: Git, Firebase, Firestore, MySQL, Linux, Docker, DigitalOcean
-- **UI/UX**: Material-UI, responsive web design
 
 ### 📚 I’m currently learning
 
-- Advanced React patterns
-- Cloud computing services (AWS, Google Cloud)
-- Containerization with Docker and Kubernetes
+- Chrome Extensions
+- Highly converting landing pages
+
 
 ---
 
